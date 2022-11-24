@@ -7,4 +7,5 @@ Este manual foi criado com intúito de ajudar as pessoas que estão entrando no 
 - [Oque é o Github?](https://www.voitto.com.br/blog/artigo/o-que-e-github?gclid=CjwKCAiAyfybBhBKEiwAgtB7fl7w0nFFXLUfzQJW6qirIwnZuV6Vp3gCaN0yHtRx89jXVwkVCIdVkBoCvewQAvD_BwE)
 - [IDE ? Oque é isso ?](https://www.redhat.com/pt-br/topics/middleware/what-is-ide)
 - [Metodologia Ágil](https://metodologiaagil.com/)
+- [TI é só programação ?](https://forbes.com.br/carreira/2022/08/empregos-em-ti-veja-os-cargos-em-alta-e-os-salarios-da-area/)
 
